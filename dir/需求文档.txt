@@ -1,0 +1,3 @@
+json数据归纳格式（考虑获取到数据的成功因素 status=1成功 starts=0 失败）：
+   1、按照pois，分类businessarea，并统计每个businessarea的总数。
+   2、按照pois，分类type，为每一个Type类型打上标签，统计各标签的数量
